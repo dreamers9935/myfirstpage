@@ -1,2 +1,50 @@
-# myfirstpage
-certified page
+
+<!DOCTYPE html>
+<head>
+<meta charset="UTF-8">
+<title> my first assignemnt</title>
+</head>
+<body>
+ <h1> Saket Singh </h1>
+<p>
+<a href="One"> One </a>
+<a href="Two"> Two</a>
+<a href="Three"> Three </a>
+<a href="Your choice"> Your Choice </a>
+</p>
+<h3> Favourite foods</h3>
+<ul>
+<li> Apples </li>
+<li> Protein bars </li>
+<li> Chicken </li>
+<li> Chocolate </li>
+</ul>
+<h3> Achievements </h3>
+<div class="w3-border">
+   <div class="w3-blue" role="progressbar" aria-valuenow="100"
+  aria-valuemin="0" aria-valuemax="100" style="height:24px;width:70%">
+    <span class="sr-only">Progress in this course(100%)</span>
+  </div>
+</div>
+<div class="w3-border">
+   <div class="w3-blue" role="progressbar" aria-valuenow="0.2"
+  aria-valuemin="0" aria-valuemax="1" style="height:24px;width:70%">
+    <span class="sr-only">Progress in the Specialization capstone(20%)</span>
+  </div>
+</div>
+<div class="w3-border">
+   <div class="w3-blue" role="progressbar" aria-valuenow="67"
+  aria-valuemin="0" aria-valuemax="100" style="height:24px;width:70%">
+    <span class="sr-only">Progress in life class(67%)</span>
+  </div>
+</div>
+<h3> More About Me </h3>
+<details>
+  <summary>My Childhood</summary>
+  <p>Myself Saket Singh.I was born and brought up in Lucknow,Uttar pradesh.</p>
+<address> Lucknow,Uttar Pradesh,India-226005</address>
+<a href="http://intro-webdesign.com/"> 
+<img src="E:\BCA\BCA 1st sem\Course era\newlogo.png" alt="logo of the site"></a> This page was craeted by Saket Singh & Colleen van lent.To learn more about web design, visit <a href="http://intro-webdesign.com/"> Intro to Web Design.</a>
+</body>
+</html>
+ 
