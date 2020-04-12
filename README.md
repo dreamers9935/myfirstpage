@@ -1,5 +1,6 @@
 
 <!DOCTYPE html>
+<html>
 <head>
 <meta charset="UTF-8">
 <title> my first assignemnt</title>
